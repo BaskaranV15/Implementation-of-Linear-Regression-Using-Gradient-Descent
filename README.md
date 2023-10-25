@@ -15,11 +15,8 @@ To write a program to predict the profit of a city using the linear regression m
 3.Perform iterations og gradient steps with learning rate.
 
 4.Plot the Cost function using Gradient Descent and generate the required graph.
-
-
 ## Program:
 ```
-/*
 Program to implement the linear regression using gradient descent.
 Developed by: BASKARAN V
 RegisterNumber:  212222230020
@@ -91,8 +88,6 @@ print("For population = 35,000, we predict a profit of $"+str(round(predict1,0))
 
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2,0)))
-
-*/
 ```
 
 ## Output:
